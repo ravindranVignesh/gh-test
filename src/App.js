@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is a test app with some changes.
+          This is a test app with some changes, tried to change package.json.
         </p>
       </header>
     </div>
